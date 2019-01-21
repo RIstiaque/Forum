@@ -2,7 +2,7 @@
 
 Create a forum using the Laravel framework along with TDD and Vue.js.
 
-**Instructions:**
+**Getting Started**
 1. Download Laravel 5.4 and PHP 7
 2. git clone https://github.com/RIstiaque/Forum-Laravel.git
 3. composer install
